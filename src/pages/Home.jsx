@@ -129,11 +129,12 @@ function Home() {
                 </Col>
               </Row>
               <Row>
-                <Col md={ <div>
+                <Col md={6} >
+                  <div>
                     <img className="img-fluid" src={poke} alt="" />
                   </div>
                   </Col>
-                <Col>
+                <Col md={6}>
                   <h2>Thistory Of The Poke Bowl</h2>
 <p>Poke
 literally means "to cut into small piecey"
