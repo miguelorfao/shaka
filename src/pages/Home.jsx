@@ -128,28 +128,6 @@ function Home() {
                   </p>
                 </Col>
               </Row>
-              <Row className="mt-4 p-4 align-items-center">
-                <Col md={6} sm={{ order: 2 }}>
-                  <div>
-                    <img className="img-fluid" src={poke} alt="" />
-                  </div>
-                </Col>
-                <Col md={{ order: 1 }} className="mt-3">
-                  <h2>The history Of The Poke Bowl</h2>
-                  <p>
-                    Poke literally means "to cut into small piecey" (Pronounced
-                    Poh-Kay rhymes with Okay) Centuries ago beare wasteners
-                    arrived on the blands of Hawaii, the native polynesians when
-                    retuning hone from fishing, would cut up raw reef pish,
-                    season it with sea salt + seaweed, combined with crushed
-                    candlenut, then eat it as a Hawaiian scooby snack! Over time
-                    the dish has evolved to include other flavours and westem
-                    influences. Thus the Poke bowl was born! Here at Sha-Ka we
-                    have our own take on the classic Poke bowl! Hope you Enjoy
-                    it!
-                  </p>
-                </Col>
-              </Row>
             </Container>
             <hr className="w-75 m-auto" />
           </div>
