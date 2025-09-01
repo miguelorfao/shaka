@@ -134,7 +134,7 @@ function Home() {
                     <img className="img-fluid" src={poke} alt="" />
                   </div>
                 </Col>
-                <Col md={6}>
+                <Col md={6} className="mt-3">
                   <h2>Thistory Of The Poke Bowl</h2>
                   <p>
                     Poke literally means "to cut into small piecey" (Pronounced
