@@ -1,38 +1,109 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Pacifico&display=swap");
+
+:root {
+  --primary: #ff6f61;
+  /* Use for buttons, key headings, and highlights. */
+
+  --Secondary: #ffc857;
+  /* Use for section backgrounds, icons, and subtle accents. */
+
+  --Accent: #2e7d32;
+
+  /* Use sparingly for decorative flourishes or section dividers. */
+
+  --Background: #fff8f0;
+
+  /* Main background color to keep it airy and welcoming. */
+  --Text: #3e2723;
+
+  /* Rich, warm brown for all main text. */
+
+  --Heading-fonts: great Vibes, Pacifico, cursive;
+  --Text-fonts: open sans, helvetica, arial, sans-serif;
+}
+body,
+html {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--Background);
+  color: var(--Text);
+}
+
+h1,
+h6 {
+  font-family: var(--Heading-fonts);
+}
+/* Header */
+header {
+  z-index: 9999;
+  position: sticky;
+  top: 0;
+}
+.menu-nav {
+  border: var(--Text) 0.3px solid;
+  color: var(--Text) !important;
+  background-color: var(--Secondary);
+  position: sticky;
+  top: 123px;
+}
+.menu-nav a {
+  color: var(--Text) !important;
+}
+.Promo {
+  background-color: var(--Secondary);
+  color: var(--Text);
+  height: 40px;
   text-align: center;
+  font-family: var(--Heading-fonts);
+  font-size: 1.5rem;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navigation-bar {
+  background-color: var(--Background);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navigation-bar .Heading-fonts {
+  color: var(--Text);
+  font-size: 2.5rem;
+  font-family: var(--Heading-fonts);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Hero-section {
+  width: 100%;
+  height: 100vh;
+  background-image: url("/public/images/shaka.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
-
-.App-link {
-  color: #61dafb;
+.aboutUs {
+  width: 100%;
+  height: 100vh;
+  background-image: url("./images/poke.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.v-hire {
+  width: 100%;
+  height: 100vh;
+  background-image: url("./images/venueHire.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.secondary-bg-color {
+  background-color: var(--Secondary);
+}
+.card-bg {
+  background-color: var(--Background) !important;
+  color: var(--Text) !important;
+}
+.btn {
+  background-color: var(--primary) !important;
+  border: none;
+}
+.menu-highlights,
+footer {
+  background-color: var(--Background);
+}
+li {
+  list-style: none;
 }

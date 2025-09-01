@@ -1,0 +1,398 @@
+{
+    "SHA-KA Coffee House & Eatery": {
+        "For Our Groms": [
+            {
+                "item": "Chi*ken Huli-Huli Poke Bowl",
+                "price": "£7.50",
+                "description": "Pan-fried vegan chicken coated in a non-spicy version of our BBQ huli-huli sauce perfect for those small taste buds! On top of white or brown rice with grated carrot, edamame and sesame seeds.",
+                "tags": [
+                    "VE",
+                    "GF"
+                ],
+                "includes": [
+                    "Sesame"
+                ]
+            },
+            {
+                "item": "Fish and Chips",
+                "price": "£6.50",
+                "description": "Battered fish goujons with fries.",
+                "includes": [
+                    "Fish",
+                    "Wheat"
+                ]
+            },
+            {
+                "item": "Chi*ken Nuggets and Chips",
+                "price": "£6.50",
+                "description": "Plant based chicken nuggets and fries.",
+                "tags": [
+                    "V"
+                ],
+                "includes": [
+                    "Wheat",
+                    "Soya"
+                ]
+            }
+        ],
+        "Tacos": [
+            {
+                "item": "Chipotle and Mango Prawn Tacos",
+                "price": "£13.00",
+                "description": "3 soft tortillas filled with shredded lettuce, pickled red cabbage and Pico de Gallo. Topped with pan-fried garlic prawns, fresh mango and a chipotle glaze.",
+                "tags": [
+                    "GFA"
+                ],
+                "includes": [
+                    "Crustaceans",
+                    "Wheat",
+                    "Sesame"
+                ]
+            },
+            {
+                "item": "Beer Battered Fish Tacos",
+                "price": "£12.50",
+                "description": "3 beer battered fish goujons in 3 soft tortillas. Shredded lettuce, pickled red cabbage, Pico de Gallo topped with a sriracha, lime and sour cream dressing finished with a lemon wedge.",
+                "includes": [
+                    "Wheat",
+                    "Milk",
+                    "Soya",
+                    "Fish"
+                ]
+            },
+            {
+                "item": "Vegan Chi*ken Huli-Huli Tacos",
+                "price": "£12.00",
+                "description": "3 soft tortillas filled with plant based chi*ken coated in our BBQ Huli-Huli sauce. Shredded lettuce, pickled red cabbage, Pico de Gallo and fresh pineapple. Topped with vegan mayo and red chili.",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    "Wheat",
+                    "Soya"
+                ]
+            },
+            {
+                "item": "Sticky Honey Glazed Halloumi Tacos",
+                "price": "£12.00",
+                "description": "3 soft tortillas filled with halloumi chunks coated in our lime and honey glaze. Shredded lettuce, pickled red cabbage, Pico de Gallo and crispy onions.",
+                "tags": [
+                    "V",
+                    "GFA"
+                ],
+                "includes": [
+                    "Milk",
+                    "Wheat"
+                ]
+            }
+        ],
+        "Poke Bowls": [
+            {
+                "item": "Spicy Lime & Pineapple Prawns",
+                "price": "£14.50",
+                "description": "Glazed pan-fried prawns on top of a choice of white or brown rice, pickled red cabbage, edamame, seaweed and grated carrot. Topped with Asian togarashi seasoning, pickled ginger and sesame seeds. Served with a pot of spicy lime and pineapple dressing.",
+                "tags": [
+                    "GF"
+                ],
+                "includes": [
+                    "Crustaceans",
+                    "Sesame"
+                ]
+            },
+            {
+                "item": "Sticky Vegan Shredded Duck",
+                "price": "£13.50",
+                "description": "White or brown rice topped with soy glazed vegan shredded duck, pickled red cabbage, edamame, seaweed, crispy onions and grated carrot. Finished with spring onions, vegan mayo and fresh chili.",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    "Soya",
+                    "Wheat",
+                    "Sesame"
+                ]
+            },
+            {
+                "item": "Citrus and Ginger Vegan Chi*ken",
+                "price": "£12.50",
+                "description": "White or brown rice topped with sticky ginger and lime coated vegan chi*ken, pickled red cabbage, edamame, seaweed and grated carrot. Finished with sriracha dressing and crispy onions.",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    "Soya",
+                    "Wheat",
+                    "Sesame"
+                ]
+            }
+        ],
+        "Sides": [
+            {
+                "item": "Skin on Fries",
+                "price": "£4.00",
+                "tags": [
+                    "VLG",
+                    "VE"
+                ],
+                "note": "Available with togarashi seasoning (contains sesame)"
+            },
+            {
+                "item": "Halloumi Fries",
+                "price": "£6.00",
+                "description": "Served with a sriracha dip.",
+                "tags": [
+                    "V"
+                ],
+                "includes": [
+                    "Soya",
+                    "Wheat",
+                    "Milk"
+                ]
+            },
+            {
+                "item": "Smashed Pea and Lemon Bites",
+                "price": "£6.00",
+                "description": "Served with vegan mayo.",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    "Wheat"
+                ]
+            }
+        ],
+        "Lemonaid": [
+            {
+                "item": "Blood Orange",
+                "price": "£3.50"
+            },
+            {
+                "item": "Passion Fruit",
+                "price": "£3.50"
+            },
+            {
+                "item": "Ginger",
+                "price": "£3.50"
+            },
+            {
+                "item": "Lime",
+                "price": "£3.50"
+            }
+        ],
+        "Soft Drink Bottles": [
+            {
+                "item": "Coke",
+                "price": "£2.60"
+            },
+            {
+                "item": "Diet Coke",
+                "price": "£2.60"
+            },
+            {
+                "item": "Sprite",
+                "price": "£2.60"
+            }
+        ],
+        "Frobrishers": [
+            {
+                "item": "Fresh Orange",
+                "price": "£3.00"
+            },
+            {
+                "item": "Apple",
+                "price": "£3.00"
+            }
+        ],
+        "Fentimans": [
+            {
+                "item": "Sparkling Elderflower",
+                "price": "£3.00"
+            },
+            {
+                "item": "Victorian Lemonade",
+                "price": "£3.00"
+            },
+            {
+                "item": "Rose Lemonade",
+                "price": "£3.00"
+            },
+            {
+                "item": "Ginger Beer",
+                "price": "£3.00"
+            }
+        ],
+        "Nuisance Botanical": [
+            {
+                "item": "Rhubarb & Ginger",
+                "price": "£3.10"
+            },
+            {
+                "item": "Mint, Cucumber & CHilli",
+                "price": "£3.10"
+            },
+            {
+                "item": "Bramble &rosemary",
+                "price": "£3.10"
+            },
+            {
+                "item": "Nettle & elderflower",
+                "price": "£3.10"
+            },
+            {
+                "item": "Pink GrapeFruit & Basil",
+                "price": "£3.10"
+            }
+        ],
+        "Charitea Iced Tea": [
+            {
+                "item": "Charitea Black",
+                "price": "£3.50"
+            },
+            {
+                "item": "Charitea Red",
+                "price": "£3.50"
+            },
+            {
+                "item": "Charitea Green",
+                "price": "£3.50"
+            },
+            {
+                "item": "Nettle & elderflower",
+                "price": "£3.10"
+            },
+            {
+                "item": "Pink GrapeFruit & Basil",
+                "price": "£3.10"
+            }
+        ],
+        "Summer Iced Tea": [
+            {
+                "item": "Expresso and Tonic",
+                "price": "£4.50"
+            },
+            {
+                "item": "Affogato",
+                "price": "£4.60"
+            },
+            {
+                "item": "Mazagran",
+                "price": "£4.40"
+            },
+            {
+                "item": "Mocha Deluxe",
+                "price": "£4.80"
+            },
+            {
+                "item": "Iced Chocolate",
+                "price": "£4.00",
+                "description": "(Dark 70% Milk 58% or White)"
+            }
+        ],
+        "Coffee": [
+            {
+                "item": "Double Espresso",
+                "price": "£2.80"
+            },
+            {
+                "item": "Macchiato",
+                "price": "£3.00"
+            },
+            {
+                "item": "Cortado",
+                "price": "£3.10"
+            },
+            {
+                "item": "Babychino",
+                "price": "£1.50 (8oz)"
+            },
+            {
+                "item": "Flat White",
+                "price": "£3.50"
+            },
+            {
+                "item": "Black Americano",
+                "price": "£2.80 (8oz) | £3.00 (12oz)"
+            },
+            {
+                "item": "White Americano",
+                "price": "£3.00 (8oz) | £3.20 (12oz)"
+            },
+            {
+                "item": "Latte",
+                "price": "£3.60 (8oz) | £3.80 (12oz)"
+            },
+            {
+                "item": "Cappuccino",
+                "price": "£3.60 (8oz) | £3.80 (12oz)"
+            },
+            {
+                "item": "Mocha",
+                "price": "£4.00 (12oz)"
+            }
+        ],
+        "Coffee Options": [
+            {
+                "item": "Extra Shot",
+                "price": "£0.50"
+            }
+        ],
+        "Milk Options": [
+            {
+                "item": "Alternative Milk",
+                "price": "Free"
+            }
+        ],
+        "Loose Leaf Tea": [
+            {
+                "item": "Lemon and Ginger",
+                "price": "£3.40"
+            },
+            {
+                "item": "Peppermint",
+                "price": "£3.40"
+            },
+            {
+                "item": "Red Berry",
+                "price": "£3.40"
+            },
+            {
+                "item": "Green Cherry",
+                "price": "£3.40"
+            },
+            {
+                "item": "Earl Grey",
+                "price": "£3.40"
+            }
+        ],
+        "ChiTea": [
+            {
+                "item": "Chai Tea",
+                "price": "£3.60"
+            },
+            {
+                "item": "Dirty Chai",
+                "price": "£4.00",
+                "description": "Chai Tea with a double shot of espresso"
+            }
+        ],
+        "Hot Chocolate": [
+            {
+                "item": "Milk 58%",
+                "price": "£4.00"
+            },
+            {
+                "item": "White",
+                "price": "£4.00"
+            },
+            {
+                "item": "Dark 70%",
+                "price": "£4.00"
+            },
+            {
+                "item": "Deluxe",
+                "price": "£4.50",
+                "description": "The works – think marshmallow and cream heaven"
+            }
+        ]
+    }
+}
