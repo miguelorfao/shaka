@@ -30,14 +30,15 @@ html {
 }
 
 h1,
+h2,
 h6 {
   font-family: var(--Heading-fonts);
 }
 /* Header */
 header {
-  z-index: 9999;
   position: sticky;
   top: 0;
+  z-index: 1;
 }
 .menu-nav {
   border: var(--Text) 0.3px solid;
@@ -81,13 +82,10 @@ header {
   background-size: cover;
   background-position: center;
 }
-.v-hire {
-  width: 100%;
-  height: 100vh;
-  background-image: url("./images/venueHire.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+
+.events h2,
+.events h4 {
+  font-family: var(--Heading-fonts) !important;
 }
 .secondary-bg-color {
   background-color: var(--Secondary);
@@ -99,6 +97,9 @@ header {
 .btn {
   background-color: var(--primary) !important;
   border: none;
+}
+.menu-highlights {
+  z-index: -10;
 }
 .menu-highlights,
 footer {

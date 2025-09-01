@@ -1,7 +1,7 @@
 import React from "react";
 import { Dropdown, Nav, NavDropdown } from "react-bootstrap";
 import menuData from "../menu.json";
-
+import s from "../images/poke.png";
 function Menu() {
   return (
     <div>
@@ -71,7 +71,7 @@ function Menu() {
                       src={item.image}
                       alt={item.item}
                       className="img-thumbnail"
-                      style={{ width: "10rem", height: "auto" }}
+                      style={{ width: "13rem", height: "auto" }}
                     />
                   )}
 
@@ -121,7 +121,7 @@ function Menu() {
       </div>
       <div>
         {" "}
-        <ul className="d-flex flex-wrap justify-content-around mt-3">
+        <ul className="text-center mt-3">
           <li> "V": "Vegetarian"</li>
           <li>"VE": "Vegan"</li>
           <li>"GF": "Gluten Free"</li>

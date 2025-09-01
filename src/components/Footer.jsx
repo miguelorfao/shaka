@@ -1,6 +1,13 @@
 import React from "react";
 import { ListGroup } from "react-bootstrap";
-import { EnvelopeFill, GeoAltFill, TelephoneFill } from "react-bootstrap-icons";
+import { Link } from "react-router-dom";
+import {
+  EnvelopeFill,
+  Facebook,
+  GeoAltFill,
+  Instagram,
+  TelephoneFill,
+} from "react-bootstrap-icons";
 
 function Footer() {
   return (
@@ -20,9 +27,7 @@ function Footer() {
               </p>
               <p className="mb-1">
                 <GeoAltFill className="me-2 text-danger" />
-                Sha-ka
-                <br />
-                12a York Place, Scarborough YO11 2NP, England, UK
+                Sha-ka, 12a York Place, Scarborough YO11 2NP, England, UK
               </p>
               <p className="mb-1">
                 <TelephoneFill className="me-2 text-primary" /> 01723 360449
@@ -30,8 +35,28 @@ function Footer() {
               <p className="mb-0">
                 <EnvelopeFill className="me-2 text-warning" /> shak-ka@gmail.com
               </p>{" "}
-              <div>facebook</div>
-              <div>Instagram</div>
+              <p className="mb-0">
+                <Link
+                  to="https://www.facebook.com/p/Sha-Ka-Coffee-House-Eatery-100039928820041/?locale=en_GB" // <-- replace with your FB link
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-decoration-none text-primary"
+                >
+                  <Facebook className="me-2" />
+                </Link>
+                Facebook
+              </p>
+              <p className="mb-0">
+                <Link
+                  to="https://www.instagram.com/shaka_coffee_house/" // <-- replace with your FB link
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-decoration-none "
+                >
+                  <Instagram className="me-2 text-danger" />
+                </Link>
+                Instagram
+              </p>
             </div>
 
             {/* Opening Times Section */}
@@ -48,7 +73,7 @@ function Footer() {
               </p>
               <p>Friday: 10:00 - 16:00</p>
               <p>Saturday: 10:00 - 16:00</p>
-              <p>SUnday: 10:00 - 15:00</p>
+              <p>Sunday: 10:00 - 15:00</p>
             </div>
           </div>
 

@@ -9,10 +9,19 @@ function About() {
         {" "}
         <h2>About Us</h2>
         <p>
-          Turn your celebration into an island escape! Our tropical-themed café
-          is available for exclusive hire, giving you the whole space to make
-          your event truly unforgettable. Picture flickering candlelight, exotic
-          floral touches, and the warm glow of aloha filling the air.
+          In March 2025, Tim and Ruth proudly took over stewardship of Sha-Ka,
+          carrying forward its tradition of creating unforgettable dining
+          experiences while adding their own heartfelt touch. With a passion for
+          hospitality and a shared love for bringing people together, they’ve
+          transformed Sha-Ka into a place where every guest feels welcome and
+          every occasion feels special. Whether it’s a romantic dinner, a family
+          gathering, a night out with friends, or a celebration of life’s
+          milestones, Tim and Ruth believe in making each moment glow with
+          meaning — always illuminated by the beauty of candlelight. Their
+          vision is simple: To create a dining experience that feels timeless,
+          personal, and memorable. At Sha-Ka by Candlelight, you’re not just
+          enjoying a meal — you’re part of a story, a celebration, and a
+          community.
         </p>
         <h2> Why us?</h2>
         <p>

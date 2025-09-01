@@ -3,6 +3,7 @@ import React from "react";
 import { Link, Outlet } from "react-router-dom";
 import { Button, Container, Nav, Navbar } from "react-bootstrap";
 import Footer from "../components/Footer";
+import Contact from "../components/Contact";
 
 function Layout() {
   return (
@@ -27,11 +28,11 @@ function Layout() {
                     About Us
                   </Nav.Link>
                   <Nav.Link href="#Location">Location</Nav.Link>
-                  <Nav.Link as={Link} to="VenueHire">
-                    Venue Hire
+                  <Nav.Link as={Link} to="Events">
+                    Events
                   </Nav.Link>
                 </Nav>
-                <Button className="btn border-0 ">Book A Venue</Button>
+                <Contact className="border-0 w-50" />
               </Navbar.Collapse>
             </Container>
           </Navbar>

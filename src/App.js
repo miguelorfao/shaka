@@ -5,7 +5,8 @@ import Menu from "./pages/Menu";
 import Layout from "./pages/Layout";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import VenueHire from "./pages/VenueHire";
+import VenueHire from "./pages/Events";
+import Events from "./pages/Events";
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
             <Route index element={<Home />} />
             <Route path="/Menu" element={<Menu />} />
             <Route path="/About" element={<About />} />
-            <Route path="/VenueHire" element={<VenueHire />} />
+            <Route path="/Events" element={<Events />} />
           </Route>
         </Routes>
       </Router>
