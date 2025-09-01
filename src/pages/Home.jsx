@@ -129,7 +129,10 @@ function Home() {
                 </Col>
               </Row>
               <Row>
-                <Col></Col>
+                <Col md={ <div>
+                    <img className="img-fluid" src={poke} alt="" />
+                  </div>
+                  </Col>
                 <Col>
                   <h2>Thistory Of The Poke Bowl</h2>
 <p>Poke
