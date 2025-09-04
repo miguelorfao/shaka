@@ -1,5 +1,5 @@
 import React from "react";
-import a_img from "../images/poke.png";
+
 function About() {
   return (
     <div>

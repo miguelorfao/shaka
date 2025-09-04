@@ -1,9 +1,66 @@
 {
     "SHA-KA Coffee House & Eatery": {
-        "For Our Groms": [
+        "Breakfast @ Shaka": [
+            {
+                "item": "Homemade Granola",
+                "price": "£6.50",
+                "image": "/images/menus/citrus&ginger.png",
+                "description": "With toasted coconut & sesame seeds, Topped with mixed berries, maple syrup, kiwi slices and a choice of milk.",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    "Sesame"
+                ]
+            },
+            {
+                "item": "Overnight Oats",
+                "price": "£5.50",
+                "image": "/images/menus/citrus&ginger.png",
+                "description": "With mixed seeds, natural yoghurt, honey, cranberries & goji berries, topped with a choice of (Strawberries, Blueberries, Banana"
+            },
+            {
+                "item": "Almond Croissant",
+                "price": "£4.50",
+                "image": "/images/menus/citrus&ginger.png",
+                "description": "",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    "Nuts"
+                ]
+            },
+            {
+                "item": "Cinnamon Bun",
+                "price": "£3.80",
+                "image": "/images/menus/citrus&ginger.png",
+                "description": "",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    ""
+                ]
+            },
+            {
+                "item": "Pastachio Croissant",
+                "price": "£4.50",
+                "image": "/images/menus/citrus&ginger.png",
+                "description": "",
+                "tags": [
+                    "VE"
+                ],
+                "includes": [
+                    "Nuts"
+                ]
+            }
+        ],
+        "For Our Grows": [
             {
                 "item": "Chi*ken Huli-Huli Poke Bowl",
                 "price": "£7.50",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "Pan-fried vegan chicken coated in a non-spicy version of our BBQ huli-huli sauce perfect for those small taste buds! On top of white or brown rice with grated carrot, edamame and sesame seeds.",
                 "tags": [
                     "VE",
@@ -16,6 +73,7 @@
             {
                 "item": "Fish and Chips",
                 "price": "£6.50",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "Battered fish goujons with fries.",
                 "includes": [
                     "Fish",
@@ -25,6 +83,7 @@
             {
                 "item": "Chi*ken Nuggets and Chips",
                 "price": "£6.50",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "Plant based chicken nuggets and fries.",
                 "tags": [
                     "V"
@@ -39,6 +98,7 @@
             {
                 "item": "Chipotle and Mango Prawn Tacos",
                 "price": "£13.00",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "3 soft tortillas filled with shredded lettuce, pickled red cabbage and Pico de Gallo. Topped with pan-fried garlic prawns, fresh mango and a chipotle glaze.",
                 "tags": [
                     "GFA"
@@ -52,6 +112,7 @@
             {
                 "item": "Beer Battered Fish Tacos",
                 "price": "£12.50",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "3 beer battered fish goujons in 3 soft tortillas. Shredded lettuce, pickled red cabbage, Pico de Gallo topped with a sriracha, lime and sour cream dressing finished with a lemon wedge.",
                 "includes": [
                     "Wheat",
@@ -63,6 +124,7 @@
             {
                 "item": "Vegan Chi*ken Huli-Huli Tacos",
                 "price": "£12.00",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "3 soft tortillas filled with plant based chi*ken coated in our BBQ Huli-Huli sauce. Shredded lettuce, pickled red cabbage, Pico de Gallo and fresh pineapple. Topped with vegan mayo and red chili.",
                 "tags": [
                     "VE"
@@ -75,6 +137,7 @@
             {
                 "item": "Sticky Honey Glazed Halloumi Tacos",
                 "price": "£12.00",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "3 soft tortillas filled with halloumi chunks coated in our lime and honey glaze. Shredded lettuce, pickled red cabbage, Pico de Gallo and crispy onions.",
                 "tags": [
                     "V",
@@ -90,6 +153,7 @@
             {
                 "item": "Spicy Lime & Pineapple Prawns",
                 "price": "£14.50",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "Glazed pan-fried prawns on top of a choice of white or brown rice, pickled red cabbage, edamame, seaweed and grated carrot. Topped with Asian togarashi seasoning, pickled ginger and sesame seeds. Served with a pot of spicy lime and pineapple dressing.",
                 "tags": [
                     "GF"
@@ -102,6 +166,7 @@
             {
                 "item": "Sticky Vegan Shredded Duck",
                 "price": "£13.50",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "White or brown rice topped with soy glazed vegan shredded duck, pickled red cabbage, edamame, seaweed, crispy onions and grated carrot. Finished with spring onions, vegan mayo and fresh chili.",
                 "tags": [
                     "VE"
@@ -116,6 +181,7 @@
                 "item": "Citrus and Ginger Vegan Chi*ken",
                 "price": "£12.50",
                 "description": "White or brown rice topped with sticky ginger and lime coated vegan chi*ken, pickled red cabbage, edamame, seaweed and grated carrot. Finished with sriracha dressing and crispy onions.",
+                "image": "/images/menus/citrus&ginger.png",
                 "tags": [
                     "VE"
                 ],
@@ -130,6 +196,7 @@
             {
                 "item": "Skin on Fries",
                 "price": "£4.00",
+                "image": "/images/menus/citrus&ginger.png",
                 "tags": [
                     "VLG",
                     "VE"
@@ -139,6 +206,7 @@
             {
                 "item": "Halloumi Fries",
                 "price": "£6.00",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "Served with a sriracha dip.",
                 "tags": [
                     "V"
@@ -152,6 +220,7 @@
             {
                 "item": "Smashed Pea and Lemon Bites",
                 "price": "£6.00",
+                "image": "/images/menus/citrus&ginger.png",
                 "description": "Served with vegan mayo.",
                 "tags": [
                     "VE"
@@ -164,19 +233,23 @@
         "Lemonaid": [
             {
                 "item": "Blood Orange",
-                "price": "£3.50"
+                "price": "£3.50",
+                "image": "/images/menus/citrus&ginger.png"
             },
             {
                 "item": "Passion Fruit",
-                "price": "£3.50"
+                "price": "£3.50",
+                "image": "/images/menus/citrus&ginger.png"
             },
             {
                 "item": "Ginger",
-                "price": "£3.50"
+                "price": "£3.50",
+                "image": "/images/menus/citrus&ginger.png"
             },
             {
                 "item": "Lime",
-                "price": "£3.50"
+                "price": "£3.50",
+                "image": "/images/menus/citrus&ginger.png"
             }
         ],
         "Soft Drink Bottles": [

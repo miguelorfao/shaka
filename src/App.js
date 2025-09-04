@@ -7,11 +7,13 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import VenueHire from "./pages/Events";
 import Events from "./pages/Events";
+import ScrollTop from "./components/ScrollTop";
 
 function App() {
   return (
     <div className="App">
       <Router>
+        <ScrollTop />
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />

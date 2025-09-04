@@ -1,5 +1,5 @@
 import React from "react";
-import v_img from "../images/venueHire.png";
+
 import { Button, Col, Container, Row } from "react-bootstrap";
 import Contact from "../components/Contact";
 function Events() {
@@ -10,7 +10,7 @@ function Events() {
         {" "}
         <Row className="border-bottom pb-3 mt-3">
           <Col md={6}>
-            <img src={v_img} alt="" className="img-fluid" />
+            <img src="/images/venueHire.png" alt="" className="img-fluid" />
           </Col>
           <Col md={6} className="mt-3">
             <div>
@@ -29,7 +29,7 @@ function Events() {
         <Row className="mt-3 border-bottom pb-3">
           <Col sm={{ order: 2 }} md={6}>
             {" "}
-            <img src={v_img} alt="" className="img-fluid" />
+            <img src="/images/venueHire.png" alt="" className="img-fluid" />
           </Col>
           <Col md={{ order: 1 }} className="mt-3">
             {" "}
